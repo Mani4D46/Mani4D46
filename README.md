@@ -11,7 +11,7 @@
 * The linux terminal (Cli, TUI and more)
 * OSes
 * File Systems
-* Reverse engineering (Who doesn't like free api keys?)
+* Reverse engineering
 * Microcontrollers
 * Vintage computers
 ## 📫 You can send me a email at 4Da6Ei.46@gmail.com 
