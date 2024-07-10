@@ -1,17 +1,27 @@
-![Banner](./assets/Banner.png)
-![Hello](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+i'm+Mani)
-* I live at iran :iran:
-* I am 13
-* I use arch btw (as my main computer)
-* I am highly interested in programing 💻
-* I've been doing programming for at least 4 years starting with vba and vb6 📊
-* I mainly use python programing launguage 🐍
-* I worked using many more programing/coding launguage e. g. html, css, js, nim, C, ruby
-## 👀 I’m interested in ..
-* The linux terminal (Cli, TUI and more)
-* OSes
-* File Systems
-* Reverse engineering
-* Microcontrollers
-* History of computers
-## 📫 You can send me a email at 4Da6Ei.46@gmail.com 
+```python
+import email
+from interests import computers
+from interests import art
+from solar_system import earth
+from earth_life.eukaryotes import animals
+
+
+class Mani4D46(animals.Human):
+    """
+    This is me!!!! read the code bellow to find out more about me.
+    """
+    def __init__(self) -> None:
+        self.age = 13.023
+        self.full_name = "Mani Farizi"
+        self.pronouns = "he/him"
+        self.email = email.Email('4Da6Ei.46@gmail.com')
+        self.living_at = earth.Iran.Khuzestan
+        self.intrests = [
+            computers.Programming,
+            computers.Linux.Terminal,
+            computers.ReverseEngeenering,
+            art.PixelArt
+        ]
+        self.ip_address = '192.168.1.2'  # muhahahahaha
+
+```
