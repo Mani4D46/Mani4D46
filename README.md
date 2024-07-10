@@ -13,5 +13,5 @@
 * File Systems
 * Reverse engineering
 * Microcontrollers
-* Vintage computers
+* History of computers
 ## 📫 You can send me a email at 4Da6Ei.46@gmail.com 
