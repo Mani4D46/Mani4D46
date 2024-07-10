@@ -11,7 +11,7 @@ class Mani4D46(animals.Human):
     This is me!!!! read the code bellow to find out more about me.
     """
     def __init__(self) -> None:
-        self.age = 13.023
+        self.age = 13
         self.full_name = "Mani Farizi"
         self.pronouns = "he/him"
         self.email = email.Email('4Da6Ei.46@gmail.com')
