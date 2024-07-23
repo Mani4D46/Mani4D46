@@ -1,5 +1,4 @@
 ![Banner](./assets/Banner.png)
-![Hello](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+i'm+Mani)
 * I live at iran :iran:
 * I am 13
 * I use arch btw (as my main computer)
