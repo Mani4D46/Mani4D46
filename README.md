@@ -1,4 +1,4 @@
-![Banner](./assets/banner(1).png)
+![Banner](./assets/banner4.png)
 * I live at iran :iran:
 * I am 13
 * I use arch btw (as my main computer)
