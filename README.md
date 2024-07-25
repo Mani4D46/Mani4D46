@@ -1,5 +1,4 @@
 ![Banner](./assets/banner4.png)
-* I live at iran :iran:
 * I am 13
 * I use arch btw (as my main computer)
 * I am highly interested in programing 💻
