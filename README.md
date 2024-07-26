@@ -1,8 +1,8 @@
-![Banner](./assets/banner4.png)
+![Banner](./assets/banner.png)
 * I am 13
 * I use arch btw (as my main computer)
 * I am highly interested in programing 💻
-* I've been doing programming for at least 4 years starting with vba and vb6 📊
+* I've been doing programming for at least 5 years starting with vba and vb6 📊
 * I mainly use python programing launguage 🐍
 * I worked using many more programing/coding launguage e. g. html, css, js, nim, C, ruby
 ## 👀 I’m interested in ..
