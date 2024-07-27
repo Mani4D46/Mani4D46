@@ -1,15 +1,10 @@
-![Banner](./assets/banner.png)
-* I am 13
-* I use Arch btw (as my main computer)
-* I am highly interested in programming 💻
-* I've been doing programming for at least 5 years starting with VBA and vb6 📊
-* I mainly use Python programming language 🐍
-* I worked using many more programming/coding languages e.g.: HTML, CSS, JS, Nim, C, Ruby
-## 👀 I’m interested in ...
-* The Linux terminal (Cli, TUI and more)
-* OSes
-* File Systems
-* Reverse engineering
-* Microcontrollers
-* History of computers
-## 📫 You can send me an email at 4Da6Ei.46@gmail.com 
+```
+╭──────────────────────── Hi there ────────────────────────╮ 🤓 Mani Farizi
+│ I'm Mani, a freelance software developer, living in      │ ├─ 🐍 Python expert       
+│ Iran. I like to develop open source software.            │ │   ├── ⭐ Blueberry editor            
+│                                                          │ │   └── ⭐ Strawberry editor
+│ you can send me an email at 4Da6Ei.46@gmail.com.         │ ├─ 🔧 Full-stack developer
+╰──────────────────────────────────────────────────────────╯ ╰╴─ 🐧 Linux user
+
+Also, yes this README is inspired by willmcgugan.
+```
