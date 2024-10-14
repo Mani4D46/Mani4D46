@@ -10,9 +10,4 @@
 Also, yes this README is inspired by willmcgugan.
 
 ---
-
-### “I really fucking hate generative AI.”
-
-—  James Cuda, CEO of Procreate
-
 [Creativity is made, not generated.](https://procreate.com/ai)
