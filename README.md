@@ -10,4 +10,4 @@
 Also, yes this README is inspired by willmcgugan.
 
 ---
-[Creativity is made, not generated.](https://procreate.com/ai), none of my codes are AI generated. (Unless when a friend makes a pull request 😠 )
+[Creativity is made, not generated](https://procreate.com/ai), none of my codes are AI generated.
